@@ -9,6 +9,6 @@ You can download the images from https://drive.google.com/drive/folders/1-dmO59u
 
 # Raindrop dataset
 
-We have also annotated the raindrop dataset[1] for the class "car". The Raindrop dataset's training set consists of 861 images, with 199 images belonging to the car class. Our annotated folder contains 199 text files with bounding box dimensions in 'xmin, ymin, xmax, ymax' format. This will allow testing of the dataset for object detection performance. 
+We have also annotated the raindrop dataset[1] for the class "car". The Raindrop dataset's training set consists of 861 images, with 199 images belonging to the car class. Our annotated folder contains 199 text files with bounding box dimensions in 'xmin, ymin, xmax, ymax' format. This can be downloaded from https://drive.google.com/drive/folders/1qjGzm0WMf0dLAZFdNrQDEdv40Jhvf5db?usp=drive_link .This will allow testing of the dataset for object detection performance. 
 
 [1]  Rui Qian, Robby T Tan, Wenhan Yang, Jiajun Su, and Jiay ing Liu. Attentive generative adversarial network for rain drop removal from a single image. In CVPR, pages 2482-2491, 2018
